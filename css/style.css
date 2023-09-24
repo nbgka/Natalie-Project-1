@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('media/images/graveyard_background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+  }
+
+h1 {
+    color:#6a1717;
+    font-size: 100px;
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+}
+
+h2 {
+    color:#6a1717;
+    font-size: 30px;
+    font-family: 'Wonder Boy In Monster World', sans-serif; 
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: auto;
+}
+
+h3{
+    color:#6a1717;
+    font-size: 30px;
+    font-family: 'Wonder Boy In Monster World', sans-serif; 
+    text-align: center;
+    margin-top: 25%;
+    margin-bottom: 0%;
+}
+
+h4{
+    color: black;
+    font-size: 200px;
+    font-family: 'Wonder Boy In Monster World', sans-serif; 
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+p {
+    color:black;
+    font-size: 10px;
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+    margin-top: 1%;
+    text-align: center;
+    
+}
+
+img:hover {
+    opacity: 0;
+    transition: opacity 5s ease-in-out, box-shadow 5s ease-in-out;
+}
+
+.heading-block{
+    height: 150px;
+    width: 100%;
+}
+
+.candle {
+    position: absolute;
+    bottom: 0;
+}
+
+.heading {
+    width: 300px;
+    text-align: right;
+    margin-left: 40%;
+    margin-right: 80%;
+}
+
+.pagelink{
+    margin-left: 10%;
+    margin-right: 0%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h4:hover {
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+    color: rgb(19, 0, 0);
+}
+
+h3:hover {
+    text-decoration: line-through;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+    color: black;
+}
+
+h2:hover {
+    text-decoration: line-through;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+    color: black;
+}
+
+h1:hover {
+    text-decoration: line-through;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+    color: black;
+}
+
+p:hover {
+    text-decoration: line-through;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+    color: white;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/holidays/hol-1/hol37.cur), auto !important;} /* End https://www.cursors-4u.com */
